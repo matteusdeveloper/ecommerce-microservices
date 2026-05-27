@@ -1,0 +1,12 @@
+# Pastas de dependências e build (ignorar)
+node_modules/
+target/
+.vscode/
+.idea/
+build/
+bin/
+*.log
+
+# Opcional: ignorar arquivos de configuração do sistema
+.env
+.DS_Store
