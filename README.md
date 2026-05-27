@@ -185,43 +185,6 @@ docker compose down
 
 ---
 
-# 📦 Publicando no GitHub
-
-## Inicializar Git
-
-```bash
-git init
-```
-
-## Adicionar arquivos
-
-```bash
-git add .
-```
-
-## Criar commit
-
-```bash
-git commit -m "Initial commit"
-```
-
-## Definir branch principal
-
-```bash
-git branch -M main
-```
-
-## Conectar ao GitHub
-
-```bash
-git remote add origin https://github.com/SEU-USUARIO/seu-repositorio.git
-```
-
-## Enviar projeto
-
-```bash
-git push -u origin main
-```
 📌 Melhorias Futuras
 Implementação de API Gateway
 Autenticação JWT
